@@ -1,0 +1,122 @@
+body {
+  background-color: #6F845C
+  }
+  h5{
+    font-family: 'Carrois Gothic SC', sans-serif;
+  }
+  H1{
+      font-family: 'Carrois Gothic SC', sans-serif;
+  }
+p{
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+h6{
+  font-family: 'Carrois Gothic SC', sans-serif;
+}
+b{
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+
+.Info {
+  background-color: white;
+  width: 180px;
+  height: 600px;
+  padding: 0 20px 20px 20px;
+  border: 2px solid black;
+  position: fixed;
+  align-content: center;
+  left: 50px
+  }
+.Caja1{
+  background-color: white;
+  height: 450px;
+  width: auto
+   padding: 0 20px 20px 20px;
+  border: 4px solid black;
+  float: right;
+ margin:1em;
+}
+.Caja2{
+  background-color: white;
+  height: 450px;
+  width: auto
+   padding: 0 20px 20px 20px;
+  border: 4px solid black;
+  float: right;
+ margin:1em;
+ }
+ .Caja3{
+   background-color: white;
+   height: 450px;
+   width: auto
+    padding: 0 20px 20px 20px;
+   border: 4px solid black;
+   float: right;
+  margin:1em;
+  }
+  .Caja4{
+    background-color: white;
+    height: 450px;
+    width: auto
+     padding: 0 20px 20px 20px;
+    border: 4px solid black;
+    float: right;
+   margin:1em;
+   }
+   .Caja5{
+     background-color: white;
+     height: 450px;
+     width: auto
+      padding: 0 20px 20px 20px;
+     border: 4px solid black;
+     float: right;
+    margin:1em;
+    }
+    .Caja6{
+      background-color: white;
+      height: 450px;
+      width: auto
+       padding: 0 20px 20px 20px;
+      border: 4px solid black;
+      float: right;
+     margin:1em;
+     }
+     .Caja7{
+       background-color: white;
+       height: 450px;
+       width: auto
+        padding: 0 20px 20px 20px;
+       border: 4px solid black;
+       float: right;
+      margin:1em;
+      }
+      .Caja8{
+        background-color: white;
+        height: 450px;
+        width: auto
+         padding: 0 20px 20px 20px;
+        border: 4px solid black;
+        float: right;
+       margin:1em;
+       }
+       .Caja9{
+         background-color: white;
+         height: 450px;
+         width: auto
+          padding: 0 20px 20px 20px;
+         border: 4px solid black;
+         float: right;
+        margin:1em;
+        }
+        .Caja10{
+          background-color: white;
+          height: 450px;
+          width: auto
+           padding: 0 20px 20px 20px;
+          border: 4px solid black;
+          float: right;
+         margin:1em;
+         }
+                    .gif {
+                      float: left;
+                      }
